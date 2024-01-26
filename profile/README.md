@@ -10,3 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+[![falco card](https://stats.oluwatobi.dev/api/pin/?username=tobi-de&repo=falco&theme=dracula&show_icons=true&hide_border=true)](https://github.com/tobi-de/falco)
+[![falco card](https://stats.oluwatobi.dev/api/pin/?username=tobi-de&repo=falco_blueprint_basic&theme=dracula&show_icons=true&hide_border=true)](https://github.com/tobi-de/falco_blueprint_basic)
